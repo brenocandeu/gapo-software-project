@@ -17,7 +17,7 @@ public class LoginVIEW extends javax.swing.JFrame {
         carregaImg();
         this.setLocationRelativeTo(null);      
     }
-    
+    //esse metodo foi criado para carregar uma imagem para a loginVIEW
     private void carregaImg(){
         try {
             ImageIcon imageicon = new ImageIcon(getClass().getResource("../imagens/Fundo_Login.png"));
