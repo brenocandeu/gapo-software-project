@@ -29,3 +29,5 @@ Para contribuir com o projeto, siga os passos abaixo:
 **Instituição**: IFSP Votuporanga 
 **Professor**: Hugo
 **Semestre**: 3º (2024)
+**Colaborador**: Pacheco
+**Criador**: Breno Candeu
