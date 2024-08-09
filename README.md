@@ -30,3 +30,4 @@ Para contribuir com o projeto, siga os passos abaixo:
 **Professor**: Hugo
 **Semestre**: 3º (2024)
 **Colaborador**: Pacheco
+**Criador**: Breno Candeu
